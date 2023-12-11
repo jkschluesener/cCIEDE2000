@@ -11,10 +11,9 @@ This Code is a Python wrapper around a C implementation of the CIEDE2000 algorit
 ### Installation
 
 This project is not on PyPI.  
-Please drop me a line / open an issue if you would consider it useful to be included there.
 
 ```bash
-pip install git+https://github.com/jkschluesener/cCIEDE2000.git@main``
+pip install git+https://github.com/jkschluesener/cCIEDE2000.git@main
 ```
 
 ### Import
